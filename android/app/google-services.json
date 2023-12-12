@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1069743090321",
+    "project_id": "planeador-eventos-ittepic",
+    "storage_bucket": "planeador-eventos-ittepic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069743090321:android:3e0e5919375ec178c06d30",
+        "android_client_info": {
+          "package_name": "mx.edu.iitepic.dam_galeria_fotos_eventos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANFdiOc_pHqblqZ7WTnl5zgscyungvF2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
